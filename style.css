@@ -23,8 +23,9 @@ body {
     height: 67%;
     max-width: 40%;
     background-image: url("29815.jpg");
-    background-size: contain;
+    background-size: cover;
     display: flex;
+    background-repeat: no-repeat;
     align-items: center;
     padding: 30px 0;
     flex-direction: column;
